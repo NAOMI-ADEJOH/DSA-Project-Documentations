@@ -17,7 +17,7 @@ This is the Platform where I started my Portfolio building while taking Data Ana
 The primary source of Data used here is Data CSV. a free download from Kaggle.com
 
 ### Tools Used
-- Ms excel for data cleaning [Download here](www.microsoft.com)
+- Ms excel for data cleaning [Download here](https://www.microsoft.com)
 
     - Data collection
     - Data cleaning
